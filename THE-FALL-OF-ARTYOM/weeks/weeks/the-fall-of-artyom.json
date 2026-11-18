@@ -1,0 +1,24 @@
+
+{
+  "songs": [
+    ["WHY DID YOU BREAK ME?", "bf", [120, 0, 0]],
+    ["WHY DID I FALL IN LOVE WITH YOU?", "bf", [120, 0, 0]],
+    ["WHERE WILL I DIE FROM THIS LOVE?", "bf", [120, 0, 0]],
+    ["I FOUND ANOTHER ONE, FUCK OFF!", "bf", [120, 0, 0]],
+    ["DEATH, WHEN I DIED", "bf", [120, 0, 0]],
+    ["WHAT HAVE I DONE?", "bf", [120, 0, 0]]
+  ],
+  "weekCharacters": [
+    "artyom",
+    "bf",
+    "gf"
+  ],
+  "weekBackground": "stage",
+  "storyName": "THE FALL OF ARTYOM",
+  "weekBefore": "tutorial",
+  "weekName": "THE FALL OF ARTYOM",
+  "startUnlocked": true,
+  "hideStoryMode": false,
+  "hideFreeplay": false,
+  "difficulties": "Normal,Hard"
+}
