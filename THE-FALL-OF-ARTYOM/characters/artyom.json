@@ -1,0 +1,54 @@
+
+{
+  "name": "Artyom",
+  "image": "characters/artyom",
+  "healthicon": "artyom",
+  "position": [0, 0],
+  "camera_position": [0, 0],
+  "sing_duration": 4,
+  "scale": 1,
+  "no_antialiasing": false,
+  "healthbar_colors": [120, 0, 0],
+  "animations": [
+    {
+      "anim": "idle",
+      "name": "Artyom Idle",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [0, 0]
+    },
+    {
+      "anim": "singLEFT",
+      "name": "Artyom Left",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [0, 0]
+    },
+    {
+      "anim": "singDOWN",
+      "name": "Artyom Down",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [0, 0]
+    },
+    {
+      "anim": "singUP",
+      "name": "Artyom Up",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [0, 0]
+    },
+    {
+      "anim": "singRIGHT",
+      "name": "Artyom Right",
+      "fps": 24,
+      "loop": false,
+      "indices": [],
+      "offsets": [0, 0]
+    }
+  ]
+}
